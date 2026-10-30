@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#D97736</color>
+    <color name="primary_dark">#B35818</color>
+    <color name="teal">#D97736</color>
+    <color name="teal_dark">#B35818</color>
+    <color name="forest">#1F4A32</color>
+    <color name="muted">#6B655D</color>
+    <color name="danger">#D94141</color>
+    <color name="page">#FDFBF7</color>
+    <color name="selected_bg">#FFF4EC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ic_launcher_background">#D97736</color>
+</resources>
